@@ -1,0 +1,8 @@
+@hostAddress=http://localhost:5000
+@devHabit = variable value
+
+GET {{hostAddress}}/hello/
+Accept: application/json
+
+###
+`
