@@ -1,8 +1,6 @@
-@hostAddress=http://localhost:5000
+@hostAddress=http://localhost:4200
 @devHabit = variable value
 
-GET {{hostAddress}}/hello/
+GET {{hostAddress}}/hello
 Accept: application/json
 
-###
-`

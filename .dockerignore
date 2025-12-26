@@ -1,0 +1,10 @@
+.git
+.gitignore
+**/build
+**/publish
+**/.DS_Store
+**/bin
+**/obj
+compose.yaml
+README.md
+Dockerfile
